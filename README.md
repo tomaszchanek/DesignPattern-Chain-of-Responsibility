@@ -2,8 +2,9 @@
 
 ### Description
 ```mermaid
-%%{init: {'theme':'base'}}%%
 mindmap
+	
+%%{init: {'theme':'base'}}%%
 	root)Design Patterns( 
 		(Creational)
 			(Singleton)
@@ -30,6 +31,7 @@ mindmap
 			 (Strategy)
 			 (Template Method)
 			 (Visitor)
+
 ```
 
 
