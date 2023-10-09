@@ -4,7 +4,7 @@
 
 Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 
 ## Example
 ### System login workflow
@@ -14,7 +14,7 @@ The main example ia a bit like in the diagram below, but here we're working with
 * user authentication
 * user authorization roles check
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ## Other
 
